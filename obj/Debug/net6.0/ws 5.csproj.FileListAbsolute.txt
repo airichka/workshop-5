@@ -1,0 +1,15 @@
+C:\Users\Иришка\Desktop\ws 5\bin\Debug\net6.0\ws 5.exe
+C:\Users\Иришка\Desktop\ws 5\bin\Debug\net6.0\ws 5.deps.json
+C:\Users\Иришка\Desktop\ws 5\bin\Debug\net6.0\ws 5.runtimeconfig.json
+C:\Users\Иришка\Desktop\ws 5\bin\Debug\net6.0\ws 5.dll
+C:\Users\Иришка\Desktop\ws 5\bin\Debug\net6.0\ws 5.pdb
+C:\Users\Иришка\Desktop\ws 5\obj\Debug\net6.0\ws 5.csproj.AssemblyReference.cache
+C:\Users\Иришка\Desktop\ws 5\obj\Debug\net6.0\ws 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иришка\Desktop\ws 5\obj\Debug\net6.0\ws 5.AssemblyInfoInputs.cache
+C:\Users\Иришка\Desktop\ws 5\obj\Debug\net6.0\ws 5.AssemblyInfo.cs
+C:\Users\Иришка\Desktop\ws 5\obj\Debug\net6.0\ws 5.csproj.CoreCompileInputs.cache
+C:\Users\Иришка\Desktop\ws 5\obj\Debug\net6.0\ws 5.dll
+C:\Users\Иришка\Desktop\ws 5\obj\Debug\net6.0\refint\ws 5.dll
+C:\Users\Иришка\Desktop\ws 5\obj\Debug\net6.0\ws 5.pdb
+C:\Users\Иришка\Desktop\ws 5\obj\Debug\net6.0\ws 5.genruntimeconfig.cache
+C:\Users\Иришка\Desktop\ws 5\obj\Debug\net6.0\ref\ws 5.dll
